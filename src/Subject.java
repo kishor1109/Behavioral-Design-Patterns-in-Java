@@ -4,5 +4,5 @@ public interface Subject {
 
     void  removeObserver(Observer obs);
 
-    void notifyObserver(Observer obs);
+    void notifyObserver();
 }
