@@ -14,7 +14,7 @@ public class ShoppingCart {
         int total = 0;
         for (int price : items) {
 
-            total += price;
+            total+= price;
         }
         return total;
     }

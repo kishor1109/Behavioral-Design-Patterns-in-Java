@@ -3,5 +3,12 @@
 public class Main {
     public static void main(String[] args) {
 
+        ShoppingCart cart=new ShoppingCart();
+
+        cart.addItem(40);
+        cart.addItem(60);
+
+        cart.payment(new CryptoPayment());
+
         }
     }
