@@ -21,7 +21,6 @@ public class ShoppingCart {
 
     public void payment(PaymentStrategy strategy){
         int total=calculateTotal();
-        System.out.println("Total:"+total);
         strategy.payment(total);
     }
 }
