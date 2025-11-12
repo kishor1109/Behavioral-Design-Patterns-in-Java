@@ -5,4 +5,5 @@ public interface Subject {
     void  removeObserver(Observer obs);
 
     void notifyObserver();
+
 }

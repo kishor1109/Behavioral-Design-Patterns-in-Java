@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Behavioral Design Patterns in Java.iml" filepath="$PROJECT_DIR$/Behavioral Design Patterns in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Combine two patterns/Combine two patterns.iml" filepath="$PROJECT_DIR$/Combine two patterns/Combine two patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command Pattern _Smart Home Controller/Command Pattern _Smart Home Controller.iml" filepath="$PROJECT_DIR$/Command Pattern _Smart Home Controller/Command Pattern _Smart Home Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy-Pattern_Payment-System/Strategy-Pattern_Payment-System.iml" filepath="$PROJECT_DIR$/Strategy-Pattern_Payment-System/Strategy-Pattern_Payment-System.iml" />
     </modules>
