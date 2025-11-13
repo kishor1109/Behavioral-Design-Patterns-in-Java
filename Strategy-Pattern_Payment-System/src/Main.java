@@ -9,13 +9,15 @@ public class Main {
 
         System.out.println("Total:"+cart.calculateTotal());
 
-        cart.payment(new CryptoPayment());
+
 
         cart.payment(new CreditCardPayment());
 
         cart.payment(new PayPalPayment());
 
         cart.payment(new UPIPayment());
+
+        cart.payment(new CryptoPayment());
 
 
 
