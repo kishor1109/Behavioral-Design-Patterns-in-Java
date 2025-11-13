@@ -10,7 +10,6 @@ public class Main {
         System.out.println("Total:"+cart.calculateTotal());
 
 
-
         cart.payment(new CreditCardPayment());
 
         cart.payment(new PayPalPayment());
@@ -18,13 +17,6 @@ public class Main {
         cart.payment(new UPIPayment());
 
         cart.payment(new CryptoPayment());
-
-
-
-
-
-
-
 
 
         }
