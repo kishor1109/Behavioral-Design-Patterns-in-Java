@@ -20,12 +20,5 @@ public class Main {
         ws.setWeatherData(26,58);
 
         Thread.sleep(2000);
-
-        ws.setWeatherData(28,60);
-
-        ws.removeObserver(tv);
-
-        ws.setWeatherData(30,65);
-
     }
 }
